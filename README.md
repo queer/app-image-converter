@@ -37,3 +37,8 @@ hello-world.overlayfs.ext4
 hello-world.tar
 [...]
 ```
+
+## TODO (maybe)
+
+- Buildpack support: https://pkg.go.dev/github.com/buildpacks/lifecycle#Builder
+- Nixpacks support?: https://github.com/railwayapp/nixpacks
